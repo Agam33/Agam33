@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Android
+- ⚡ Fun fact: I love cat 🐱
+
+<p align="center"> 
+   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=agam33&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+</p>
+
+
 <!--
 **Agam33/Agam33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
