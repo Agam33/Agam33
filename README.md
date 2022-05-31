@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Android
-- ⚡ Fun fact: I love cat 🐱
+
 
 ![Kotlin](https://img.shields.io/badge/-kotlin-006a71?style=plastic&logo=kotlin) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=plastic&logo=android) ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git) 
 
