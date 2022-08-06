@@ -2,8 +2,7 @@
 
 - 🌱 I’m currently learning Android
 
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/-kotlin-006a71?style=plastic&logo=kotlin) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=plastic&logo=android) ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git) 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height=40 widht=40> ![Kotlin](https://img.shields.io/badge/-kotlin-006a71?style=plastic&logo=kotlin) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=plastic&logo=android) ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git) 
 
 <p align="center"> 
    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=agam33&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
