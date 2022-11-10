@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Android
+- 🌱 I’m currently learning ...
+- ⚡ Fun fact: ...
+- 🤔 I’m looking for help with ...
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height=40 widht=40> <img src="https://img.shields.io/badge/-kotlin-006a71?style=plastic&logo=kotlin"> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=plastic&logo=android"> <img src="https://img.shields.io/badge/-Git-black?style=plastic&logo=git"> 
 
